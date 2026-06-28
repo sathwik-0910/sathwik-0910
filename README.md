@@ -41,6 +41,22 @@ ACE Engineering College | DSA Enthusiast
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 
 </p>
+---
+## 🌐 Coding Profiles
+
+<p align="center">
+<a href="https://leetcode.com/u/Sathwik_0910/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/sathwik-0910">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sathwik-gujjaru/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
 
 ---
 
@@ -82,16 +98,21 @@ ACE Engineering College | DSA Enthusiast
 
 ---
 
-## 🏆 GitHub Trophies
+## 💻 LeetCode Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sathwik-0910&theme=onestar&no-frame=true&margin-w=10&margin-h=10"/>
+<a href="https://leetcode.com/u/Sathwik_0910/">
+<img src="https://leetcard.jacoblin.cool/Sathwik_0910?theme=dark&font=Nunito&ext=contest"/>
+</a>
 </p>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwik-0910&theme=tokyo-night&hide_border=true"/>
 </p>
-
 ---
 
 ## 📜 Certifications
